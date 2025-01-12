@@ -1,0 +1,125 @@
+<li>
+  <a
+    href="#world_news"
+    aria-controls="world_news"
+    role="tab"
+    data-toggle="tab"
+    id="world_news_button"
+    >world news</a
+  >
+</li>
+
+<div class="tab-content news_display_container clearfix">
+  <ul id="world_news" class="tab-pane">
+    <li>
+      <div class="figure">
+        <div class="column-news">
+          <div class="figure-01">
+            <img src=images/news/w_news_01.jpg alt=image>
+          </div>
+          <div class="content-01">
+            <h6><a href="#">consectetur adipisicing elit</a></h6>
+
+            <p class="red_p">Stories of the legends</p>
+
+            <p class="describtion">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            </p>
+          </div>
+          <div class="news_date clearfix">
+            <span>october 14,2015</span>
+            <span class="like"><a href="#">45</a></span>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="figure">
+        <div class="column-news">
+          <div class="figure-01">
+            <img src=images/news/w_news_01.jpg alt=image>
+          </div>
+          <div class="content-01">
+            <h6><a href="#">consectetur adipisicing elit</a></h6>
+
+            <p class="red_p">Stories of the legends</p>
+
+            <p class="describtion">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            </p>
+          </div>
+          <div class="news_date clearfix">
+            <span>october 14,2015</span>
+            <span class="like"><a href="#">45</a></span>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="figure">
+        <div class="column-news">
+          <div class="figure-01">
+            <img src=images/news/w_news-02.jpg alt=image>
+          </div>
+          <div class="content-01">
+            <h6><a href="#">consectetur adipisicing elit</a></h6>
+
+            <p class="red_p">Stories of the legends</p>
+
+            <p class="describtion">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            </p>
+          </div>
+          <div class="news_date clearfix">
+            <span>october 14,2015</span>
+            <span class="like"><a href="#">45</a></span>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="figure">
+        <div class="column-news">
+          <div class="figure-01">
+            <img src=images/news/w_news-03.jpg alt=image>
+          </div>
+          <div class="content-01">
+            <h6><a href="#">consectetur adipisicing elit</a></h6>
+
+            <p class="red_p">Stories of the legends</p>
+
+            <p class="describtion">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            </p>
+          </div>
+          <div class="news_date clearfix">
+            <span>october 14,2015</span>
+            <span class="like"><a href="#">45</a></span>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="figure">
+        <div class="column-news">
+          <div class="figure-01">
+            <img src=images/news/w-news-04.jpg alt=image>
+          </div>
+          <div class="content-01">
+            <h6><a href="#">consectetur adipisicing elit</a></h6>
+
+            <p class="red_p">Stories of the legends</p>
+
+            <p class="describtion">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            </p>
+          </div>
+          <div class="news_date clearfix">
+            <span>october 14,2015</span>
+            <span class="like"><a href="#">45</a></span>
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
